@@ -1,0 +1,76 @@
+El programa esta hecho para entrar los valores de e y t, se hizo por lo tres metodos para compara y se obtuvo lo siguiente:
+
+
+*****t = 97 y e = 0.0167
+
+Newthon Raphson: (2)
+
+La raiz converge a 1.6851969415753731 despues de 3 iteraciones
+Para t = 97.0 y una excentricidad = 0.0167  x (AU) = -0.11415124166634799
+
+Secante: (1.5,2.5)
+
+La raiz converge a 1.6851969415753731 despues de 4 iteraciones
+Para t = 97.0 y una excentricidad = 0.0167  x (AU) = -0.11415124166634799
+
+Biseccion:(1.5,2.5)
+
+La raiz converge a 1.6851969415438361 despues de 34 iteraciones
+Para t = 97.0 y una excentricidad = 0.0167  x (AU) = -0.11415124163501714
+
+
+
+*****t = 182 y e = 0.0167
+
+Newthon Raphson: (3.25)
+
+La raiz converge a 3.13096420068179 despues de 2 iteraciones
+Para t = 182.0 y una excentricidad = 0.0167  x (AU) = -0.999943518526092
+
+Secante: (3,3.25)
+
+La raiz converge a 3.130964200681736 despues de 3 iteraciones
+Para t = 182.0 y una excentricidad = 0.0167  x (AU) = -0.9999435185260914
+
+Biseccion:(3,3.25)
+
+La raiz converge a 3.13096420065267 despues de 32 iteraciones
+Para t = 182.0 y una excentricidad = 0.0167  x (AU) = -0.9999435185257826
+
+
+*****t = 273 y e = 0.0167
+
+Newthon Raphson: (4.5)
+
+La raiz converge a 4.679489099949256 despues de 2 iteraciones
+Para t = 273.0 y una excentricidad = 0.0167  x (AU) = -0.032893945606511696
+
+Secante: (4.5,5)
+
+La raiz converge a 4.679489100532153 despues de 4 iteraciones
+Para t = 273.0 y una excentricidad = 0.0167  x (AU) = -0.03289394502393073
+
+Biseccion:(1.5,2.5)
+
+La raiz converge a 4.679489100526553 despues de 33 iteraciones
+Para t = 273.0 y una excentricidad = 0.0167  x (AU) = -0.032893945029527666
+
+
+*****t = 97 y e = 0.9999*
+
+Newthon Raphson: (2.5)
+
+La raiz converge a 2.3675971804270817 despues de 3 iteraciones
+Para t = 97.0 y una excentricidad = 0.99999  x (AU) = -0.7151235570620144
+
+Secante: (2,2.5)
+
+La raiz converge a 2.367597180426337 despues de 5 iteraciones
+Para t = 97.0 y una excentricidad = 0.99999  x (AU) = -0.7151235570614938
+
+Biseccion:(2,2.5)
+
+La raiz converge a 2.367597180377925 despues de 33 iteraciones
+Para t = 97.0 y una excentricidad = 0.99999  x (AU) = -0.715123557027654
+
+

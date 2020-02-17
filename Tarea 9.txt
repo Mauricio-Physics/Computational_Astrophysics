@@ -1,0 +1,2 @@
+Los archivos renombrados los anexo, ya que los llamo
+de la misma manera en el codigo, envio las tres primeras, las otras dos faltantes es solo cambiar el nombre del archivo en las primeras lineas y corre igual.
